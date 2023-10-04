@@ -1,0 +1,11 @@
+{
+  "name": "scss",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:MykolaMatsiuk/react-atomic.git",
+  "author": "MykolaMatsiuk <mykola.matsiuk@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "normalize-scss": "^7.0.1"
+  }
+}
