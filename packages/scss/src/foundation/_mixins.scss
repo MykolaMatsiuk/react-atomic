@@ -28,9 +28,9 @@
 }
 
 @mixin padding($space) {
-  padding: map.get($spacing, $space);
+  padding: map-get($spacing, $space);
 }
 
 @mixin margin($space) {
-  margin: map.get($spacing, $space);
+  margin: map-get($spacing, $space);
 }
