@@ -1,5 +1,5 @@
 {
-  "name": "react-atomic",
+  "name": "@react-atomic/core",
   "version": "1.0.0",
   "main": "index.js",
   "repository": "git@github.com:MykolaMatsiuk/react-atomic.git",
