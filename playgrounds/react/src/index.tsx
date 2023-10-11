@@ -1,10 +1,10 @@
 import React from "react";
 import ReactDOM from "react-dom";
 
-import { Button } from "@react-atomic/react";
+import { Color } from "@react-atomic/react";
 
-import "@react-atomic/scss/lib/Button.css";
-// import "@ds.e/scss/lib/Utilities.css";
+// import "@react-atomic/scss/lib/Color.css";
+import "@react-atomic/scss/lib/Utilities.css";
 // import "@ds.e/scss/lib/Text.css";
 // import "@ds.e/scss/lib/Margin.css";
 // import "@ds.e/scss/lib/Select.css";
@@ -27,7 +27,7 @@ const options = [
 
 ReactDOM.render(
   <div style={{ padding: "40px" }}>
-    <Button label='Example button' />
+    <Color hexCode='#f345dd' />
   </div>,
   document.querySelector("#root")
 );
