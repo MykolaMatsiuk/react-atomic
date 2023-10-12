@@ -1,6 +1,6 @@
-import React from "react";
-import { Spacing } from "@react-atomic/foundation";
-export interface MarginProps extends React.PropsWithChildren {
+import React from 'react';
+import { Spacing } from '@ds.e/foundation';
+export interface MarginProps {
     space?: keyof typeof Spacing;
     left?: boolean;
     right?: boolean;

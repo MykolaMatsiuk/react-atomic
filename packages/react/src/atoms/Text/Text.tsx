@@ -1,14 +1,14 @@
-import React from "react";
-import { FontSize } from "@react-atomic/foundation";
+import React from 'react'
+import { FontSize } from '@ds.e/foundation'
 
-export interface TextProps extends React.PropsWithChildren {
-  size?: keyof typeof FontSize;
+export interface TextProps {
+    size?: keyof typeof FontSize
 }
 
 const Text: React.FC<TextProps> = ({ size = FontSize.base, children }) => {
-  const className = `dse-text dse-text-${size}`;
+    const className = `dse-text dse-text-${size}`
 
-  return <p className={className}>{children}</p>;
-};
+    return <p className={className}>{children}</p>
+}
 
-export default Text;
+export default Text

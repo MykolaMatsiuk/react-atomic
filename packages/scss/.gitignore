@@ -1,7 +1,2 @@
-# dependencies
-/node_modules
-
-yarn-error.log*
-
-# husky
-.husky
+node_modules/
+lib/*

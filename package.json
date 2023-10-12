@@ -1,9 +1,8 @@
 {
-  "name": "@react-atomic/core",
+  "name": "@ds.e/core",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "git@github.com:MykolaMatsiuk/react-atomic.git",
-  "author": "MykolaMatsiuk <mykola.matsiuk@gmail.com>",
+  "author": "Frantz Kati <bahdcoder@gmail.com>",
   "license": "MIT",
   "devDependencies": {
     "@commitlint/cli": "^9.1.1",

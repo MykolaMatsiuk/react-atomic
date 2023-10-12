@@ -1,4 +1,4 @@
 module.exports = {
-  roots: ['<rootDir>/src'],
-  testRegex: '(/.*\\.test)\\.ts$',
+    roots: ['<rootDir>/src'],
+    testRegex: '(/.*\\.test)\\.ts$',
 }

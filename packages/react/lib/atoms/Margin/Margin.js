@@ -1,6 +1,6 @@
-import React from 'react';
+import React$1 from 'react';
 
-const Margin = ({ space = "xxxs", children, left, right, top, bottom }) => {
+const Margin = ({ space = 'xxxs', children, left, right, top, bottom }) => {
     let className = ``;
     if (!left && !right && !top && !bottom) {
         className = `dse-margin-${space}`;
@@ -17,8 +17,8 @@ const Margin = ({ space = "xxxs", children, left, right, top, bottom }) => {
     if (bottom) {
         className = `${className} dse-margin-bottom-${space}`;
     }
-    return React.createElement("div", { className: className }, children);
+    return React$1.createElement("div", { className: className }, children);
 };
 
-export { Margin as default };
+export default Margin;
 //# sourceMappingURL=Margin.js.map
