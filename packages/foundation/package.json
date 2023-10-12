@@ -14,7 +14,7 @@
     "typescript": "^3.9.7"
   },
   "scripts": {
-    "build": "tsc",
+    "build": "tsc --skipLibCheck",
     "dev": "yarn build -w",
     "test": "jest --verbose"
   },
