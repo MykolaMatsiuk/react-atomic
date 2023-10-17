@@ -99,26 +99,26 @@
  * styles for components.
  *
  */
-.dse-text {
+.react-atomic-text {
   margin: 0;
 }
 
-.dse-text-xs {
+.react-atomic-text-xs {
   font-size: 0.75rem;
 }
 
-.dse-text-sm {
+.react-atomic-text-sm {
   font-size: 0.875rem;
 }
 
-.dse-text-base {
+.react-atomic-text-base {
   font-size: 1rem;
 }
 
-.dse-text-lg {
+.react-atomic-text-lg {
   font-size: 1.125rem;
 }
 
-.dse-text-xl {
+.react-atomic-text-xl {
   font-size: 1.5rem;
 }

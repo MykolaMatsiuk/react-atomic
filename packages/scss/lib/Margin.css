@@ -99,202 +99,202 @@
  * styles for components.
  *
  */
-.dse-margin-none {
+.react-atomic-margin-none {
   margin: 0rem;
 }
 
-.dse-margin-left-none {
+.react-atomic-margin-left-none {
   margin-left: 0rem;
 }
 
-.dse-margin-right-none {
+.react-atomic-margin-right-none {
   margin-right: 0rem;
 }
 
-.dse-margin-top-none {
+.react-atomic-margin-top-none {
   margin-top: 0rem;
 }
 
-.dse-margin-bottom-none {
+.react-atomic-margin-bottom-none {
   margin-bottom: 0rem;
 }
 
-.dse-margin-xxxs {
+.react-atomic-margin-xxxs {
   margin: 0.25rem;
 }
 
-.dse-margin-left-xxxs {
+.react-atomic-margin-left-xxxs {
   margin-left: 0.25rem;
 }
 
-.dse-margin-right-xxxs {
+.react-atomic-margin-right-xxxs {
   margin-right: 0.25rem;
 }
 
-.dse-margin-top-xxxs {
+.react-atomic-margin-top-xxxs {
   margin-top: 0.25rem;
 }
 
-.dse-margin-bottom-xxxs {
+.react-atomic-margin-bottom-xxxs {
   margin-bottom: 0.25rem;
 }
 
-.dse-margin-xxs {
+.react-atomic-margin-xxs {
   margin: 0.5rem;
 }
 
-.dse-margin-left-xxs {
+.react-atomic-margin-left-xxs {
   margin-left: 0.5rem;
 }
 
-.dse-margin-right-xxs {
+.react-atomic-margin-right-xxs {
   margin-right: 0.5rem;
 }
 
-.dse-margin-top-xxs {
+.react-atomic-margin-top-xxs {
   margin-top: 0.5rem;
 }
 
-.dse-margin-bottom-xxs {
+.react-atomic-margin-bottom-xxs {
   margin-bottom: 0.5rem;
 }
 
-.dse-margin-xs {
+.react-atomic-margin-xs {
   margin: 0.75rem;
 }
 
-.dse-margin-left-xs {
+.react-atomic-margin-left-xs {
   margin-left: 0.75rem;
 }
 
-.dse-margin-right-xs {
+.react-atomic-margin-right-xs {
   margin-right: 0.75rem;
 }
 
-.dse-margin-top-xs {
+.react-atomic-margin-top-xs {
   margin-top: 0.75rem;
 }
 
-.dse-margin-bottom-xs {
+.react-atomic-margin-bottom-xs {
   margin-bottom: 0.75rem;
 }
 
-.dse-margin-sm {
+.react-atomic-margin-sm {
   margin: 1rem;
 }
 
-.dse-margin-left-sm {
+.react-atomic-margin-left-sm {
   margin-left: 1rem;
 }
 
-.dse-margin-right-sm {
+.react-atomic-margin-right-sm {
   margin-right: 1rem;
 }
 
-.dse-margin-top-sm {
+.react-atomic-margin-top-sm {
   margin-top: 1rem;
 }
 
-.dse-margin-bottom-sm {
+.react-atomic-margin-bottom-sm {
   margin-bottom: 1rem;
 }
 
-.dse-margin-md {
+.react-atomic-margin-md {
   margin: 1.5rem;
 }
 
-.dse-margin-left-md {
+.react-atomic-margin-left-md {
   margin-left: 1.5rem;
 }
 
-.dse-margin-right-md {
+.react-atomic-margin-right-md {
   margin-right: 1.5rem;
 }
 
-.dse-margin-top-md {
+.react-atomic-margin-top-md {
   margin-top: 1.5rem;
 }
 
-.dse-margin-bottom-md {
+.react-atomic-margin-bottom-md {
   margin-bottom: 1.5rem;
 }
 
-.dse-margin-lg {
+.react-atomic-margin-lg {
   margin: 2rem;
 }
 
-.dse-margin-left-lg {
+.react-atomic-margin-left-lg {
   margin-left: 2rem;
 }
 
-.dse-margin-right-lg {
+.react-atomic-margin-right-lg {
   margin-right: 2rem;
 }
 
-.dse-margin-top-lg {
+.react-atomic-margin-top-lg {
   margin-top: 2rem;
 }
 
-.dse-margin-bottom-lg {
+.react-atomic-margin-bottom-lg {
   margin-bottom: 2rem;
 }
 
-.dse-margin-xl {
+.react-atomic-margin-xl {
   margin: 3rem;
 }
 
-.dse-margin-left-xl {
+.react-atomic-margin-left-xl {
   margin-left: 3rem;
 }
 
-.dse-margin-right-xl {
+.react-atomic-margin-right-xl {
   margin-right: 3rem;
 }
 
-.dse-margin-top-xl {
+.react-atomic-margin-top-xl {
   margin-top: 3rem;
 }
 
-.dse-margin-bottom-xl {
+.react-atomic-margin-bottom-xl {
   margin-bottom: 3rem;
 }
 
-.dse-margin-xxl {
+.react-atomic-margin-xxl {
   margin: 4.5rem;
 }
 
-.dse-margin-left-xxl {
+.react-atomic-margin-left-xxl {
   margin-left: 4.5rem;
 }
 
-.dse-margin-right-xxl {
+.react-atomic-margin-right-xxl {
   margin-right: 4.5rem;
 }
 
-.dse-margin-top-xxl {
+.react-atomic-margin-top-xxl {
   margin-top: 4.5rem;
 }
 
-.dse-margin-bottom-xxl {
+.react-atomic-margin-bottom-xxl {
   margin-bottom: 4.5rem;
 }
 
-.dse-margin-xxxl {
+.react-atomic-margin-xxxl {
   margin: 6rem;
 }
 
-.dse-margin-left-xxxl {
+.react-atomic-margin-left-xxxl {
   margin-left: 6rem;
 }
 
-.dse-margin-right-xxxl {
+.react-atomic-margin-right-xxxl {
   margin-right: 6rem;
 }
 
-.dse-margin-top-xxxl {
+.react-atomic-margin-top-xxxl {
   margin-top: 6rem;
 }
 
-.dse-margin-bottom-xxxl {
+.react-atomic-margin-bottom-xxxl {
   margin-bottom: 6rem;
 }

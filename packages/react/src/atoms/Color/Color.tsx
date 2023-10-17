@@ -8,7 +8,7 @@ export interface ColorProps {
 }
 
 const Color: React.FC<ColorProps> = ({ hexCode, width = Spacing.sm, height = Spacing.sm }) => {
-  const className = `dse-width-${width} dse-height-${height}`;
+  const className = `react-atomic-width-${width} react-atomic-height-${height}`;
 
   return (
     <div

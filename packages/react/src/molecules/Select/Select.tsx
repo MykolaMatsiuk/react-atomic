@@ -138,22 +138,22 @@ const Select: React.FunctionComponent<SelectProps> = ({
   };
 
   return (
-    <div className='dse-select'>
+    <div className='react-atomic-select'>
       <button
         data-testid='DseSelectButton'
         onKeyDown={onButtonKeyDown}
-        aria-controls='dse-select-list'
+        aria-controls='react-atomic-select-list'
         aria-haspopup={true}
         aria-expanded={isOpen ? true : undefined}
         ref={labelRef}
-        className='dse-select__label'
+        className='react-atomic-select__label'
         onClick={() => onLabelClick()}
       >
         <Text>{selectedOption === null ? label : selectedOption.label}</Text>
 
         <svg
-          className={`dse-select__caret ${
-            isOpen ? "dse-select__caret--open" : "dse-select__caret--closed"
+          className={`react-atomic-select__caret ${
+            isOpen ? "react-atomic-select__caret--open" : "react-atomic-select__caret--closed"
           }`}
           width='1rem'
           height='1rem'
@@ -172,9 +172,11 @@ const Select: React.FunctionComponent<SelectProps> = ({
         <ul
           role='menu'
           aria-hidden={isOpen ? undefined : false}
-          id='dse-select-list'
+          id='react-atomic-select-list'
           style={{ top: overlayTop }}
-          className={`dse-select__overlay ${isOpen ? "dse-select__overlay--open" : ""}`}
+          className={`react-atomic-select__overlay ${
+            isOpen ? "react-atomic-select__overlay--open" : ""
+          }`}
         >
           {options.map((option, optionIndex) => {
             const isSelected = selectedIndex === optionIndex;
@@ -196,9 +198,9 @@ const Select: React.FunctionComponent<SelectProps> = ({
                   tabIndex: isHighlighted ? -1 : 0,
                   onMouseEnter: () => highlightOption(optionIndex),
                   onMouseLeave: () => highlightOption(null),
-                  className: `dse-select__option
-                                ${isSelected ? "dse-select__option--selected" : ""}
-                                ${isHighlighted ? "dse-select__option--highlighted" : ""}
+                  className: `react-atomic-select__option
+                                ${isSelected ? "react-atomic-select__option--selected" : ""}
+                                ${isHighlighted ? "react-atomic-select__option--highlighted" : ""}
                             `,
                   key: option.value,
                   onClick: () => onOptionSelected(option, optionIndex),

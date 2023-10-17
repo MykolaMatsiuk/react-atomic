@@ -99,10 +99,10 @@
  * styles for components.
  *
  */
-.dse-button-container {
-  display: flex;
-  background: var(--dse-btn-primary-bg, #5ece7b);
-  color: var(--dse-btn-primary-color, #fff);
+.react-atomic-button-container {
+  background: var(--react-atomic-btn-primary-bg, #5ece7b);
   border: none;
+  color: var(--react-atomic-btn-primary-color, #fff);
+  display: flex;
   padding: 0.25rem;
 }

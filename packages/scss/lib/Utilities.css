@@ -99,82 +99,82 @@
  * styles for components.
  *
  */
-.dse-width-none {
+.react-atomic-width-none {
   width: 0rem;
 }
 
-.dse-height-none {
+.react-atomic-height-none {
   height: 0rem;
 }
 
-.dse-width-xxxs {
+.react-atomic-width-xxxs {
   width: 0.25rem;
 }
 
-.dse-height-xxxs {
+.react-atomic-height-xxxs {
   height: 0.25rem;
 }
 
-.dse-width-xxs {
+.react-atomic-width-xxs {
   width: 0.5rem;
 }
 
-.dse-height-xxs {
+.react-atomic-height-xxs {
   height: 0.5rem;
 }
 
-.dse-width-xs {
+.react-atomic-width-xs {
   width: 0.75rem;
 }
 
-.dse-height-xs {
+.react-atomic-height-xs {
   height: 0.75rem;
 }
 
-.dse-width-sm {
+.react-atomic-width-sm {
   width: 1rem;
 }
 
-.dse-height-sm {
+.react-atomic-height-sm {
   height: 1rem;
 }
 
-.dse-width-md {
+.react-atomic-width-md {
   width: 1.5rem;
 }
 
-.dse-height-md {
+.react-atomic-height-md {
   height: 1.5rem;
 }
 
-.dse-width-lg {
+.react-atomic-width-lg {
   width: 2rem;
 }
 
-.dse-height-lg {
+.react-atomic-height-lg {
   height: 2rem;
 }
 
-.dse-width-xl {
+.react-atomic-width-xl {
   width: 3rem;
 }
 
-.dse-height-xl {
+.react-atomic-height-xl {
   height: 3rem;
 }
 
-.dse-width-xxl {
+.react-atomic-width-xxl {
   width: 4.5rem;
 }
 
-.dse-height-xxl {
+.react-atomic-height-xxl {
   height: 4.5rem;
 }
 
-.dse-width-xxxl {
+.react-atomic-width-xxxl {
   width: 6rem;
 }
 
-.dse-height-xxxl {
+.react-atomic-height-xxxl {
   height: 6rem;
 }
