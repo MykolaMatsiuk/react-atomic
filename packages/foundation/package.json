@@ -1,5 +1,5 @@
 {
-  "name": "@ds.e/foundation",
+  "name": "@react-atomic/foundation",
   "version": "0.2.0",
   "main": "lib/index.js",
   "license": "MIT",
