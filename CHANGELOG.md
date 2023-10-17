@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.3.0](https://github.com/MykolaMatsiuk/react-atomic/compare/v0.2.0...v0.3.0) (2023-10-17)
+
+
+### Features
+
+* change package name ([700e21a](https://github.com/MykolaMatsiuk/react-atomic/commit/700e21aee735035e12878d861d0f83f5d2ca5793))
+
+
+
+
+
 # 0.2.0 (2023-10-17)
 
 
