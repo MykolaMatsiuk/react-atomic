@@ -24,4 +24,3 @@ jobs:
         env:
           CHROMATIC_PROJECT_TOKEN: ${{ secrets.CHROMATIC_PROJECT_TOKEN }}
         run: yarn test:chromatic
-        node_version: "16.13.1"
