@@ -1,13 +1,13 @@
 import React from "react";
 import ReactDOM from "react-dom";
 
-import { Select } from "@ds.e/react";
+import { Select } from "@react-atomic/react";
 
-import "@ds.e/scss/lib/Utilities.css";
-import "@ds.e/scss/lib/Text.css";
-import "@ds.e/scss/lib/Margin.css";
-import "@ds.e/scss/lib/Select.css";
-import "@ds.e/scss/lib/global.css";
+import "@react-atomic/scss/lib/Utilities.css";
+import "@react-atomic/scss/lib/Text.css";
+import "@react-atomic/scss/lib/Margin.css";
+import "@react-atomic/scss/lib/Select.css";
+import "@react-atomic/scss/lib/global.css";
 
 const options = [
   {

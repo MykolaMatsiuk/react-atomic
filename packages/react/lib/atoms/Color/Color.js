@@ -1,5 +1,5 @@
 import React$1 from 'react';
-import { Spacing } from '@ds.e/foundation';
+import { Spacing } from '@react-atomic/foundation';
 
 const Color = ({ hexCode, width = Spacing.sm, height = Spacing.sm }) => {
     const className = `react-atomic-width-${width} react-atomic-height-${height}`;
